@@ -48,6 +48,6 @@ GitHub Repository: [https://github.com/vamsiGone/Csharp-Codes](https://github.co
 
 ## Contact Me
 
-- Instagram: an_on_nym_ous(https:www.instagram.com/an_on_nym_ous?r=nametag)
+- Instagram: [an_on_nym_ous](https://www.instagram.com/an_on_nym_ous?r=nametag)
 
 Feel free to contact me if you have any questions or if you'd like to work together on a project!
