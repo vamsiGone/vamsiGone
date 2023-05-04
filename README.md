@@ -1,3 +1,6 @@
+
+[![](https://visitcount.itsvg.in/api?id=vamsiGone&icon=9&color=1)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I'm currently working on Task Tracking Web Application based on ASP.Net  <br><br>I'm interested to colloborate on ASP.Net Web Application
 
@@ -22,5 +25,4 @@ I'm currently working on Task Tracking Web Application based on ASP.Net  <br><br
 ![](https://github-contributor-stats.vercel.app/api?username=vamsiGone&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vamsiGone&icon=9&color=1)](https://visitcount.itsvg.in)
 
